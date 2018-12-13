@@ -24,3 +24,9 @@ hs_err_pid*
 
 *.iml
 .idea/*
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+.mvn/timing.properties
